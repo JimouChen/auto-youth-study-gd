@@ -17,5 +17,10 @@ python auto_youth_study.py your-mid-value
 ```
 
 ## github actions res
+- set schedule time/每天下午13点运行一次
+```yml
+  schedule:
+    - cron: '0 5 * * *'
+```
 - run successfully
 ![](https://img2022.cnblogs.com/blog/2134757/202209/2134757-20220930145558494-1416637048.png)
