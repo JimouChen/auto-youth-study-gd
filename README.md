@@ -13,6 +13,9 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 - run
 ```shell
-python auto_youth_study_gd your-mid-value
+python auto_youth_study.py your-mid-value
 ```
 
+## github actions res
+- run successfully
+![](https://img2022.cnblogs.com/blog/2134757/202209/2134757-20220930145558494-1416637048.png)
