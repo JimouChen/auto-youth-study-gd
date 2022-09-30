@@ -39,4 +39,4 @@ jobs:
       
       - name: Working
         run:
-          python auto_youth_study_gd.py ${{ secrets.MYMID }}
+          python ./auto_youth_study.py ${{ secrets.MYMID }}
