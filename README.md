@@ -2,6 +2,11 @@
 Automatically and regularly execute versions of youth study scripts on github actions
 
 ## usage
+```
+git clone https://github.com/JimouChen/auto-youth-study-gd.git
+```
+- then```cd auto-youth-study-gd```
+
 - install requirements
 ```shell
 pip install -r requirements.txt
